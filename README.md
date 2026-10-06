@@ -71,6 +71,7 @@
 | 👀 | [Coven](https://github.com/OpenCoven/coven) | daemon, pty, project-scope, multi-harness, sqlite | Local-first runtime for project-scoped AI coding-agent sessions, with durable state, authority boundaries, and multi-harness interoperability. |
 | 👀 | [Psyche Build](https://github.com/OpenCoven/psyche-build) | desktop, git-worktrees, tmux, parallel-agents | Desktop cockpit for running parallel AI coding agents in visible, isolated workspaces — from branch to review, merge, and handoff. |
 | 👀 | [Ordewell](https://github.com/ordewell/ordewell) | orchestration, plan-first, multi-harness, verification | Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks — each with its own runner, model and mode — then execute and verify the results. |
+| 👀 | [oxi](https://github.com/maziluiosif/oxi) | desktop, local-models, acp, native | Native, local-first coding-agent desktop app in Rust (egui) — run any model: local GGUF, Ollama/LM Studio, SSH-tunneled runtimes, hosted APIs, or Claude Code / Cursor / Codex over ACP. No Electron, no cloud lock-in. |
 | 👀 | [rerun-bench](https://github.com/Abelo9996/rerun-bench) | evaluation, reruns, pass-k, cost-spread | Same task, run N times: how consistent and how expensive is your coding agent? A rerun benchmark for Claude Code, Codex and OpenCode. |
 | 👀 | [open agent lab](https://github.com/Abelo9996/open-agent-lab) | evaluation, results-site, confidence-intervals | Independent, reproducible evaluation of coding agents: same tasks, many runs, intervals shown. |
 | 👀 | [snap-back](https://github.com/Abelo9996/snap-back) | undo, snapshots, shadow-git, hooks | Undo for any coding agent. Snapshots your project in a shadow git repo so one command rolls back what the agent did, without touching your own git history. |
@@ -94,6 +95,7 @@
 | 👀 | [chamnan](https://github.com/ArcticFox2029/chamnan) | context, architecture-index, impact-map, local-first, stdlib-only | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the decisions behind them — as markdown committed beside the code, so an agent reads instead of rediscovering. |
 | 👀 | [ContextStream](https://github.com/contextstream/mcp-server) | context, mcp, coding-agents | Shared project context for Cursor, Claude Code, Codex, Grok. Site https://contextstream.io. MCP https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is. |
 | 👀 | [Bhawna Skills](https://github.com/saketvishal/bhawna-skills) | decision-memory, architecture-guardrails, invariants, cli, local-first | Decision memory and architecture guardrails for AI coding agents. |
+| 👀 | [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | memory, encrypted, mcp, rust | iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents. |
 
 ## Token Savers
 
